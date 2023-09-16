@@ -403,7 +403,7 @@ def back():
 
 def contact():
 
-	os.system('xdg-open https://www.facebook.com/profile.php?id=100057185057447')
+	os.system('xdg-open https://www.facebook.com/profile.php?id=100085311282248')
 
 	back()
 
