@@ -781,7 +781,7 @@ def menu(my_name,my_id):
 	elif _____cowok__pink_____ in ['6','06']:
 
 		contact()
-		os.system('xdg-open https://www.facebook.com/profile.php?id=100057185057447')
+		os.system('xdg-open https://www.facebook.com/profile.php?id=100085311282248 ')
 
 	elif _____cowok__pink_____ in ['0']:
 
